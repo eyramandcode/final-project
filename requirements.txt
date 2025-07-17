@@ -1,0 +1,13 @@
+tqdm
+requests
+joblib
+pyarrow
+psycopg
+psycopg_binary
+dagster
+pandas
+numpy
+scikit-learn
+jupyter
+matplotlib
+mlflow

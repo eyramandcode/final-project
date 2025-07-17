@@ -1,1 +1,1 @@
-# final-project
+# Heatwave Prediction Model
